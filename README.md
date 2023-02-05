@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Thomas</h1>
 <h3>I create value by bringing together technology, design, and business to translate business goals into tasks for developers, designers and marketers.</h3>
 
-- 👨‍💻 All of my projects are available on my website at **[https://spacelollipoparts.com](https://spacelollipoparts.com)**
+- 👨‍💻 All of my projects are available on my website at **[spacelollipoparts.com](https://spacelollipoparts.com)**
 
 - 📫 How to reach me **bergie81@gmail.com**
 
